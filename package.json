@@ -25,6 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://pjc0247.github.io/bugreport/build",
   "eslintConfig": {
     "extends": "react-app"
   },
